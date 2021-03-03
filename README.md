@@ -6,6 +6,9 @@ This week’s homework requires you to modify starter code to create an applicat
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
 
+Github Resository Link:: https://github.com/mikebird2414/3-JavaScript-Password-Generator
+
+Link to Password Generator: https://mikebird2414.github.io/3-JavaScript-Password-Generator/
 
 ## Acceptance Criteria
 
@@ -26,6 +29,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+### Screenshot Results
 
 ![Webpage](./Assets/webpage)
 ![javaScript](./Assets/javaScript)
