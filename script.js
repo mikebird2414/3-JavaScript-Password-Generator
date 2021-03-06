@@ -21,6 +21,15 @@ function generatePassword(){
   var finalPassword = "";
   var approveCharaters = "";
 
+// Password lenght Criteria 
+  var passLength = prompt("Your character length shuold be between 8 and 128 ? ");
+    if(passLength < 8){
+      return alert("Password must be 8 characters or more.");
+    }else if (passLength > 128){
+      return alert("password must be 128 characters or less");
+    }
+
+
   //Prompt box to allow user to enter length of password 
   var passLength = prompt("How many characters would you like your password to be?");
 
