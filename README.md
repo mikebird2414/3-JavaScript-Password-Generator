@@ -33,4 +33,4 @@ THEN the password is either displayed in an alert or written to the page
 ### Screenshot Results
 
 ![Webpage](./Assets/webpage)
-![javaScript](./Assets/javaScript)
+![javaScript](./Assets/javaScript.png)
