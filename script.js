@@ -1,4 +1,4 @@
-// Function to generate Required Values
+// Required Charators 
 var symbol = "~[]{}:;<>!@#$%^&*()_+?"
 var number = "1234567890"
 var lowerCase = "abcdefghijklmnopqrstuvwxyz"
@@ -15,8 +15,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
-// Required Charators 
-
+// Function to generate Required Values
 function generatePassword(){
   var finalPassword = "";
   var approveCharaters = "";
